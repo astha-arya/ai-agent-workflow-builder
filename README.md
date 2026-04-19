@@ -18,8 +18,6 @@ A React-based visual workflow editor designed for HR administrators to build, co
     ```bash
     npm run dev
 
-4. Open `http://localhost:5173` (or the port provided in your terminal) in your browser.
-
 ## 🏗️ Architecture & Design Decisions
 
 This application was built with a strict focus on modularity, type safety, and optimal rendering performance.
